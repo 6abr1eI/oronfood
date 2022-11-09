@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,500,600,700|Poppins:300,400,600,700&display=swap");
+html {
+  scroll-behavior: smooth;
+}
 .white-bg {
   background: #ffffff;
 }
